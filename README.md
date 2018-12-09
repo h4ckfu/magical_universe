@@ -1,9 +1,6 @@
 # Awesome Python Features Explained Using the World of Magic 
 
-I heard about this project on: https://talkpython.fm/
-I have also read Dan Baders book https://dbader.org/products/python-tricks-book/
-
-I am also in to Machine learning so I checked out: https://github.com/zotroneneis/
+I heard about this project on: https://talkpython.fm/ and I have also read Dan Baders book https://dbader.org/products/python-tricks-book/ and I am also into Machine learning so I checked out: https://github.com/zotroneneis/
 
 I wanted to read this code and play around with it, so forked it here....
 
